@@ -17,7 +17,7 @@ function Hero() {
       <div className='flex justify-center'>
       <div className='h-[320px] w-[250px] p-2 rounded-[20px]'>
         <img src='../src/assets/image/profe1.jpg'
-        className='w-[900px] h-[320px] bg-teal-600 p-7 rounded-full mt-7'
+        className='w-[910px] h-[320px] bg-teal-600 p-7 rounded-full mt-7'
         />
       </div>
       </div>

@@ -8,7 +8,7 @@ const Testimonial =() => {
             <div className='py-6 sm:py-8'>
                 <div className='mb-4 text[15px] font-medium md:mb-10 md:text-[25px] lg:text-[35px]'>
                     <span>
-                        My Dedi website was build by Amarachi and i must say she is good. she gave me more ideas pn how i can establish my business and what my business should mean to the world.
+                        My Dedi website was build by Amarachi and i must say she is good. she gave me more ideas on how i can establish my business and what my business should mean to the world.
                     </span>
                 </div>
                 
