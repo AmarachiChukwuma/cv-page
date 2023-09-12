@@ -16,9 +16,7 @@ const Testimonial =() => {
         </div>
     
     </div>
-    <div className='flex rounded-r-lg bg-white'>
-        <img src='../src/assets/image/IMG_5878(2).PNG'/>
-    </div>
+    
     </div>
  
 }
