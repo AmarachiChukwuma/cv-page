@@ -1,6 +1,11 @@
 import React from 'react'
 
 function Hero() {
+  const resume = useResume();
+
+  function handleClick() {
+    resume.push('/AmarachiCV')
+  }
   return (
     
     <div className='grid grid-cols-1 md:grid-cols-2 pt-10 items-center'>
@@ -10,7 +15,7 @@ function Hero() {
         <p className='text-teal-400 text-[30px] font-bold'>I am a Full Stack Developer</p>
         <p className='text-white text-[30px] font-bold'>& Graphic Designer</p>
         <div className='mt-4 flex gap-4'>
-          <button className='text-white text-[12px] px-3 pb-2 py-2 bg-teal-600 rounded-full border-[2px] hover:border-white hover:scale-110 translate-all ease-in-out duration-300  cursor-pointer'>MY RESUME</button>
+          <button className='text-white text-[12px] px-3 pb-2 py-2 bg-teal-600 rounded-full border-[2px] hover:border-white hover:scale-110 translate-all ease-in-out duration-300  cursor-pointer'onClick={} >MY RESUME</button>
           <button className='text-white text-[12px] px-3 pb-2 py-2 bg-teal-600 rounded-full border-[2px] hover:border-white hover:scale-110 translate-all ease-in-out duration-300  cursor-pointer'>CONTACT ME</button>
         </div>
       </div>
