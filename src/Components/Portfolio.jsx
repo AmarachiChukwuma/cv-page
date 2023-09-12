@@ -12,7 +12,7 @@ function Portfolio() {
           
 
           <span>
-            this is my project
+            this my project
           </span>
           <ul>
             <a href='https://jewryamarachi.netlify.app/?authuser=0'>

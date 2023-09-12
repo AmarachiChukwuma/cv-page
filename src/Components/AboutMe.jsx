@@ -15,7 +15,7 @@ function AboutMe() {
           </span>
 
         </div>
-        <button className='rounded-md bg-accent/80 py-2 px-4 font-roboto text-xs font-semibold text-white transition-all hover:bg-accent md;rounded-lg md:px-5 md: text-[15px] lg:text-[15px]'>Download cv</button>
+        <button className='rounded-md  py-2 px-4 font-roboto text-xs font-semibold text-white transition-all hover:bg-accent md;rounded-lg md:px-5 md: text-[15px] lg:text-[15px]'>Download cv</button>
 
       </div>
 
