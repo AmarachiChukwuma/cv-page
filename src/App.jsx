@@ -6,7 +6,7 @@ import Header from './Components/Header'
 import Hero from './Components/Hero'
 import SideBar from './Components/SideBar'
 import AboutMe from './Components/AboutMe'
-import Testimonial from './Components/testimonial'
+import Testimonial from './Components/Testimonial'
 import Hire from './Components/Hire'
 import Portfolio from './Components/Portfolio'
 
