@@ -3,6 +3,7 @@ import { HiBars3BottomRight, HiMiniXMark } from "react-icons/hi2";
 import MenuOverlay from './MenuOverlay';
 import Hero from './Hero';
 import AboutMe from './AboutMe';
+import Portfolio from './Portfolio';
 function Header() {
 
   const [toggle,setToggle]=useState(false)
@@ -16,13 +17,13 @@ function Header() {
         title:'ABOUT ME'
     },
     {
-      id:1,
-      title:'PROJECTS'
+      id:Portfolio,
+      title:'PROJECT'
     },
     {
       id:1,
       title:'EXPERIENCE'
-  },
+    },
     {
       id:1,
       title:'CONTACT'
@@ -31,9 +32,10 @@ function Header() {
   return (
     <div className='flex items- justify-between'>
       <div>
-         <h2 className='text-[30px] font-bold text-white'>A 
+        <h2 className='text-[30px] font-bold text-white'>A 
       
-         <span className='text-teal-400'>C/</span></h2>
+         <span className='text-teal-400'>C/</span>
+        </h2>
       </div>
         <div flex className='hidden md:flex gap-4'> 
           {menuList.map((item)=>(
