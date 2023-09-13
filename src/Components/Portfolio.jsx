@@ -19,8 +19,8 @@ function Portfolio() {
               <li>
                 Jewry client project
               </li>
-              <img src='../src/assets/image/profe1.jpg'
-                className='w-[910px] h-[320px] bg-teal-600 p-7 rounded-full mt-7'/>
+              {/* <img src='../src/assets/image/profe1.jpg'
+                className='w-[910px] h-[320px] bg-teal-600 p-7 rounded-full mt-7'/> */}
             </a>
 
             <a href='https://iable-dancing-studio.netlify.app/?authuser=0'>
@@ -33,9 +33,9 @@ function Portfolio() {
                 Dedi clothing brand
             </li></a>
 
-            <a href='https://iable-dancing-studio.netlify.app/?authuser=0'>
+            <a href='https://dreambigger.netlify.app/?authuser=0'>
               <li>
-                Dedi
+                Dream Bigger
             </li></a>
 
             <a href='https://iable-dancing-studio.netlify.app/?authuser=0'>

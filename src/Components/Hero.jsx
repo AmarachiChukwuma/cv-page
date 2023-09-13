@@ -1,9 +1,7 @@
 import React from 'react'
 
 function Hero() {
-  c
-
-
+  
   return (
     
     <div className='grid grid-cols-1 md:grid-cols-2 pt-10 items-center'>
