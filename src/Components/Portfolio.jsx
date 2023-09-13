@@ -10,15 +10,11 @@ function Portfolio() {
         </div>
         <div className='mb-5 text-justyfy font-poppins text-[13px] font-medium text-light lg:text-[15px]'>
           
-
-          <span className=' text-[25px]'>
-            This my project
-          </span>
           <ul>
             <a href='https://jewryamarachi.netlify.app/?authuser=0'>
               <li className='text-white text-[30px]'>
                 Jewry client project
-                <button className='text-white text-[12px] px-3 pb-2 py-2 bg-teal-600 rounded-full border-[2px] hover:border-white hover:scale-110 translate-all ease-in-out duration-300  cursor-pointer'>View</button>
+                <button className='flex text-white text-[12px] px-3 pb-2 py-2 bg-teal-600 rounded-full border-[2px] hover:border-white hover:scale-110 translate-all ease-in-out duration-300  cursor-pointer'>View</button>
               </li>
               <img src='../src/assets/image/hhjh.png'
                 className='w-[910px] h-[320px] bg-teal-600 p-7  mt-7'/>
